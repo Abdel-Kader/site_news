@@ -25,18 +25,14 @@
 		<meta charset="UTF-8">
 		<!-- Site Title -->
 		<title>E-News</title>
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 		<!--
 		CSS
 		============================================= -->
+		
 		<link rel="stylesheet" href="styles/linearicons.css">
 		<link rel="stylesheet" href="styles/font-awesome.min.css">
 		<link rel="stylesheet" href="styles/bootstrap.css">
-		<link rel="stylesheet" href="styles/magnific-popup.css">
-		<link rel="stylesheet" href="styles/nice-select.css">
-		<link rel="stylesheet" href="styles/animate.min.css">
-		<link rel="stylesheet" href="styles/owl.carousel.css">
-		<link rel="stylesheet" href="styles/jquery-ui.css">
+		
 		<link rel="stylesheet" href="styles/sweetalert.css">
 		<link rel="stylesheet" href="styles/main.css">
 	</head>
